@@ -1,0 +1,22 @@
+{
+  "name": "wordguess",
+  "version": "1.0.0",
+  "description": "Guess the letter in Terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeadDuck83/constructorWordGuess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeadDuck83/constructorWordGuess/issues"
+  },
+  "homepage": "https://github.com/DeadDuck83/constructorWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
