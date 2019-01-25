@@ -1,4 +1,4 @@
-var inquirer = require("inquirer");
+// var inquirer = require("inquirer");
 // var theWord = "Try Coded"
 // var wordArr = theWord.split(' ');
 
